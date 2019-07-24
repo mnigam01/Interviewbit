@@ -1,5 +1,7 @@
 // Array
 // Repeat and Missing Number
+// Same kind of problem
+// Find duplicate in an array in O(n) and by using O(1) extra space - GeeksforGeeks
 
 vector<int> Solution::repeatedNumber(const vector<int> &A) {
     long long int sum1=0,sum2=0,sum12=0,sum22=0;
